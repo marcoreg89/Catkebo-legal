@@ -20,7 +20,7 @@ Catkebo is provided "as is" and "as available". While I strive to ensure the app
 The app is currently provided free of charge. I reserve the right to introduce paid features, subscriptions, or make changes to the app at any time in the future. Any future costs will be clearly communicated to you before you incur any charges.
 
 **5. Contact Me:**
-For any questions regarding these terms, please contact me directly at: **[Contact Form - Catkebo](https://forms.gle/dpXpJVAMDFirbP88A)]**
+For any questions regarding these terms, please contact me directly at: **[Contact Form - Catkebo](https://forms.gle/dpXpJVAMDFirbP88A)**
 
 ---
 
@@ -41,4 +41,4 @@ Catkebo è fornita "così com'è" e "come disponibile". Sebbene mi impegni al ma
 L'app è attualmente fornita a titolo gratuito. Mi riservo il diritto di apportare modifiche o introdurre funzionalità a pagamento o abbonamenti in futuro. Eventuali costi futuri ti saranno chiaramente comunicati prima di qualsiasi addebito.
 
 **5. Contatti:**
-Per qualsiasi domanda riguardante questi termini, puoi contattarmi direttamente a: **[Contact Form - Catkebo](https://forms.gle/dpXpJVAMDFirbP88A)]**
+Per qualsiasi domanda riguardante questi termini, puoi contattarmi direttamente a: **[Contact Form - Catkebo](https://forms.gle/dpXpJVAMDFirbP88A)**
