@@ -18,7 +18,7 @@ I strongly believe in your digital privacy. Catkebo includes zero third-party tr
 Currently, Catkebo is completely free and features no monetization. If future updates introduce premium features, this privacy policy will be updated accordingly. However, my core commitment to not tracking your data will remain unchanged.
 
 **5. Contact Me:**
-For any privacy-related questions or concerns, please contact me directly at: **[Contact Form - Catkebo](https://forms.gle/dpXpJVAMDFirbP88A)]**
+For any privacy-related questions or concerns, please contact me directly at: **[Contact Form - Catkebo](https://forms.gle/dpXpJVAMDFirbP88A)**
 
 ---
 
@@ -37,4 +37,4 @@ Credo fortemente nella tua privacy digitale. Catkebo non include alcun tracciame
 Attualmente, Catkebo è un'app completamente gratuita e non prevede alcuna monetizzazione. Qualora futuri aggiornamenti dovessero introdurre funzionalità premium, questa informativa sulla privacy verrà aggiornata di conseguenza. Tuttavia, il mio impegno fondamentale a non tracciare i tuoi dati rimarrà invariato.
 
 **5. Contatti:**
-Per qualsiasi domanda o dubbio relativo alla privacy, è possibile contattarmi direttamente a: **[Contact Form - Catkebo](https://forms.gle/dpXpJVAMDFirbP88A)]**
+Per qualsiasi domanda o dubbio relativo alla privacy, è possibile contattarmi direttamente a: **[Contact Form - Catkebo](https://forms.gle/dpXpJVAMDFirbP88A)**
