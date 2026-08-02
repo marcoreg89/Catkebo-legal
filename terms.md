@@ -1,4 +1,4 @@
-# Terms of Service / Termini di Servizio - Catkebo
+# Terms of Service
 **Last Updated / Ultimo aggiornamento:** August 2, 2026
 
 ---
