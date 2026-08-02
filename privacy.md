@@ -1,4 +1,4 @@
-# Privacy Policy - Catkebo
+# Privacy Policy
 **Last Updated / Ultimo aggiornamento:** August 2, 2026
 
 ---
