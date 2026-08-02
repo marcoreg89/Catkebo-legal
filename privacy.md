@@ -1,55 +1,40 @@
-# Privacy Policy for Catkebo (English)
+# Privacy Policy - Catkebo
+**Last Updated / Ultimo aggiornamento:** August 2, 2026
 
-**Last updated: August 2, 2026**
+---
 
-I, Marco Regondi, built the Catkebo app (the "App") as a Commercial/Free app. This SERVICE is provided by me and is intended for use as is.
+## 🇬🇧 English Version
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+**1. Data Storage: Local by Default and Optional CloudKit**
+By default, Catkebo stores all your data locally on your device. You have the option to enable Apple's CloudKit technology to synchronize and back up your data across devices. If you choose to enable this feature, your data is stored securely and privately in your personal Apple iCloud account. In either case, I (the developer) do not have access to your data, nor do I store it on any proprietary or external third-party servers.
 
-### Information Collection and Use
-Catkebo was built with privacy as a top priority ("Privacy by Design"). **I do not collect, store, or have access to any of your personal information, financial data, or transactions.**
+**2. Local Notifications**
+To provide you with timely alerts and daily reminders, the app uses Local Notifications. These notifications are scheduled directly on your device by the iOS system. They do not require an internet connection, and absolutely no data or device token is sent to external servers or the Apple Push Notification service (APNs).
 
-All the data you enter into the App (including expenses, income, categories, budgets, and groups) is stored locally on your device.
+**3. Analytics, Tracking, and Data Collection**
+I strongly believe in your digital privacy. Catkebo includes zero third-party tracking, zero analytics software, and zero advertising SDKs. I do not collect, monitor, share, or sell your personal information. 
 
-### iCloud and CloudKit Synchronization
-The App uses Apple’s iCloud and CloudKit services to sync your data across your devices or to share it with family/friends (via Shared Groups).
-- Data synced via iCloud is stored securely on Apple's servers and is tied to your Apple ID.
-- I, as the developer of the App, **have absolutely no access** to the data stored in your iCloud or CloudKit account. The management of such data is subject exclusively to Apple's Privacy Policy (https://www.apple.com/legal/privacy/).
+**4. Future Updates and Features**
+Currently, Catkebo is completely free and features no monetization. If future updates introduce premium features, this privacy policy will be updated accordingly. However, my core commitment to not tracking your data will remain unchanged.
 
-### Third-Party Services
-The App does not use any third-party tracking services, advertising SDKs, or analytics tools that collect your personal data.
+**5. Contact Me**
+For any privacy-related questions or concerns, please contact me directly at: **[INSERISCI LA TUA EMAIL]**
 
-### Security
-I value your trust in using my Service. The App relies on the native security systems provided by iOS and Apple (such as local secure storage and iCloud) to protect your data.
+---
 
-### Changes to This Privacy Policy
-I may update my Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+## 🇮🇹 Versione Italiana
 
-----------------------------------------------------------------------------------------------------
+**1. Archiviazione dei Dati: Locale di Default e CloudKit Opzionale**
+Di default, Catkebo salva tutti i tuoi dati localmente sul tuo dispositivo. Hai la possibilità di attivare opzionalmente la tecnologia CloudKit di Apple per sincronizzare e fare il backup dei tuoi dati tra i dispositivi. Se scegli di abilitare questa funzione, i tuoi dati verranno archiviati in modo sicuro e privato nel tuo account Apple iCloud personale. In ogni caso, io (lo sviluppatore) non ho alcun accesso ai tuoi dati e questi non vengono memorizzati su server di mia proprietà o di terze parti.
 
-# Privacy Policy per Catkebo (Italiano)
+**2. Notifiche Locali**
+Per fornirti avvisi e promemoria giornalieri, l'applicazione utilizza Notifiche Locali. Queste notifiche vengono programmate direttamente sul tuo dispositivo dal sistema iOS. Non richiedono una connessione a internet e nessun dato o token del dispositivo viene inviato a server esterni o al servizio Apple Push Notification (APNs).
 
-**Ultimo aggiornamento: 2 Agosto 2026**
+**3. Analitiche, Tracciamento e Raccolta Dati**
+Credo fortemente nella tua privacy digitale. Catkebo non include alcun tracciamento di terze parti, nessun software di analitica e nessun SDK pubblicitario. Non raccolgo, monitoro, condivido o vendo le tue informazioni personali.
 
-Io, Marco Regondi, ho sviluppato l'app Catkebo ("l'App") come applicazione commerciale/gratuita. Questo servizio è fornito da me ed è inteso per l'uso così com'è.
+**4. Aggiornamenti Futuri e Nuove Funzionalità**
+Attualmente, Catkebo è un'app completamente gratuita e non prevede alcuna monetizzazione. Qualora futuri aggiornamenti dovessero introdurre funzionalità premium, questa informativa sulla privacy verrà aggiornata di conseguenza. Tuttavia, il mio impegno fondamentale a non tracciare i tuoi dati rimarrà invariato.
 
-Questa pagina è utilizzata per informare i visitatori riguardo alle mie politiche sulla raccolta, l'uso e la divulgazione di Informazioni Personali per chiunque decida di utilizzare il mio Servizio.
-
-### Raccolta e Uso delle Informazioni
-Catkebo è stata progettata con la privacy come priorità assoluta ("Privacy by Design"). **Io non raccolgo, non memorizzo e non ho accesso a nessuna delle tue informazioni personali, ai tuoi dati finanziari o alle tue transazioni.**
-
-Tutti i dati che inserisci nell'App (incluse spese, entrate, categorie, budget e gruppi) vengono salvati localmente sul tuo dispositivo. 
-
-### Sincronizzazione iCloud e CloudKit
-L'App utilizza i servizi Apple iCloud e CloudKit per sincronizzare i tuoi dati tra i tuoi dispositivi o per condividerli con i tuoi familiari/amici (tramite i Gruppi Condivisi).
-- I dati sincronizzati tramite iCloud sono archiviati in modo sicuro nei server di Apple e legati al tuo ID Apple.
-- Io, in qualità di sviluppatore dell'App, **non ho alcun accesso** ai dati salvati nel tuo account iCloud o CloudKit. La gestione di tali dati è soggetta esclusivamente all'Informativa sulla privacy di Apple (https://www.apple.com/legal/privacy/).
-
-### Servizi di Terze Parti
-L'App non utilizza alcun servizio di tracciamento di terze parti, SDK pubblicitari o strumenti di analytics che raccolgono i tuoi dati personali. 
-
-### Sicurezza
-Apprezzo la tua fiducia nell'utilizzare il mio Servizio. L'App fa affidamento sui sistemi di sicurezza nativi forniti da iOS e Apple (come l'archiviazione sicura locale e iCloud) per proteggere i tuoi dati.
-
-### Modifiche a Questa Privacy Policy
-Potrei aggiornare la mia Privacy Policy di tanto in tanto. Ti consiglio di rivedere periodicamente questa pagina per eventuali cambiamenti. Ti informerò di qualsiasi modifica pubblicando la nuova Privacy Policy in questa pagina.
+**5. Contatti**
+Per qualsiasi domanda o dubbio relativo alla privacy, è possibile contattarmi direttamente a: **[INSERISCI LA TUA EMAIL]**
